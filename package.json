@@ -1,0 +1,15 @@
+{
+  "name": "slackjokebot",
+  "version": "1.0.0",
+  "description": "slackbot that tells random jokes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anupama Garg",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "slackbots": "^1.2.0"
+  }
+}
